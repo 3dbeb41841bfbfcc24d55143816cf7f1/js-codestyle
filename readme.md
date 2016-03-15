@@ -42,7 +42,7 @@ Read [A Comparison of JavaScript Linting Tools](http://www.sitepoint.com/compari
 
 ## Exercise
 
-See exercises/friends/readme.md
+See [Friends CodeStyle Exercise](https://github.com/ATL-WDI-Curriculum/js-codestyle/blob/master/exercises/friends/readme.md) for instructions.
 
 ## For Further Reading
 
