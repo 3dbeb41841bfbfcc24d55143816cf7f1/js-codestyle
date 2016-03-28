@@ -40,6 +40,13 @@ Linters are tools that analyze our source code looking for code style violations
 
 Read [A Comparison of JavaScript Linting Tools](http://www.sitepoint.com/comparison-javascript-linting-tools/) for a detailed comparison of these linting tools.
 
+### Sublime Plugins
+
+* BracketHighlighter
+* GitGutter
+* HTML-CSS-JS Prettify
+* JSCS-Formatter
+
 ## Exercise
 
 See [Friends CodeStyle Exercise](https://github.com/ATL-WDI-Curriculum/js-codestyle/blob/master/exercises/friends/readme.md) for instructions.
