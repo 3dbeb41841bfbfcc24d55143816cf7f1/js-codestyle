@@ -11,6 +11,8 @@ A set of recommended conventions for styling your code. Styling includes:
 * placement of opening and closing brackets
 * many others...
 
+![Tabs vs. Spaces](images/tabs-vs-spaces.png)
+
 Often a specific Code Style is documented in a Style Guide. There are many style guides to choose from, such as:
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
