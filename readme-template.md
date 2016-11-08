@@ -1,21 +1,6 @@
-<!--
-This file is auto-generated from a 'template.md'
-file using the 'md-process' script.
-Therefore *DO NOT* edit this file directly!
-Instead edit the template file and then run 'md-process'.
--->
-
 # JavaScript Code Style
 
-## Table of Contents
-
-* [What is Code Style?](#what-is-code-style)
-* [Why is Good Code Style Important?](#why-is-good-code-style-important)
-* [Tools: Linters, Beautifiers, and Editor Plugins](#tools-linters-beautifiers-and-editor-plugins)
-  * [Linters](#linters)
-  * [Editor Plugins](#editor-plugins)
-* [Exercise](#exercise)
-* [For Further Reading](#for-further-reading)
+{{TOC}}
 
 ## What is Code Style?
 
